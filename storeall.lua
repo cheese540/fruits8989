@@ -1,3 +1,4 @@
+while true do 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/cheese540/fruits8989/main/barrier.lua'))()
 wait(0.1)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/cheese540/fruits8989/main/blizzard.lua'))()
@@ -67,3 +68,4 @@ wait(0.1)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/cheese540/fruits8989/main/spring.lua'))()
 wait(0.1)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/cheese540/fruits8989/main/venom.lua'))()
+end
